@@ -3,7 +3,6 @@ title: MOC — Подготовка к экзамену 1.2.2
 tags:
   - aspirantura
   - exam-prep
-  - 1.2.2
 aliases:
   - Aspirantura Prep
 status: in-progress
