@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aspirantura/Obsidian-Aspirantura-Prep/27-ОДУ-теорема-существования-и-единственности.md",
+                "file": "Aspirantura/Obsidian-Aspirantura-Prep/03-Теоремы-Ролля-Лагранжа-Коши.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "27-ОДУ-теорема-существования-и-единственности"
+              "title": "03-Теоремы-Ролля-Лагранжа-Коши"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Файловый менеджер"
@@ -78,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 535.5
+    "width": 342.5
   },
   "right": {
     "id": "43cbee4837ea435f",
@@ -184,8 +186,14 @@
   },
   "active": "c6c6a5a17f940ed6",
   "lastOpenFiles": [
-    "Aspirantura/Obsidian-Aspirantura-Prep/01-Предел-последовательности-и-функции.md",
+    "Вопросы^q3.md",
+    "Aspirantura/Obsidian-Aspirantura-Prep/03-Теоремы-Ролля-Лагранжа-Коши.md",
+    "Aspirantura/Obsidian-Aspirantura-Prep/32-Классификация-уравнений-математической-физики.md",
+    "Aspirantura/Вопросы.md",
+    "Aspirantura/Obsidian-Aspirantura-Prep/02-Непрерывные-функции.md",
     "Aspirantura/Obsidian-Aspirantura-Prep/00-MOC-Aspirantura-Prep.md",
+    "Aspirantura/Obsidian-Aspirantura-Prep/01-Предел-последовательности-и-функции.md",
+    "Aspirantura/Obsidian-Aspirantura-Prep/27-ОДУ-теорема-существования-и-единственности.md",
     "Aspirantura/Obsidian-Aspirantura-Prep/26-Поверхности-второго-порядка.md",
     "Aspirantura/Obsidian-Aspirantura-Prep/37-Методы-исследования-моделей-вычислительный-эксперимент.md",
     "Aspirantura/Obsidian-Aspirantura-Prep/52-Технологии-разработки-комплексов-прикладных-программ.md",
@@ -205,12 +213,6 @@
     "Aspirantura/Obsidian-Aspirantura-Prep/43-Основные-понятия-теории-разностных-схем-сходимость.md",
     "Aspirantura/Obsidian-Aspirantura-Prep/Без названия",
     "Aspirantura/Obsidian-Aspirantura-Prep/42-Основные-понятия-теории-разностных-схем-устойчивость.md",
-    "Aspirantura/Obsidian-Aspirantura-Prep/41-Основные-понятия-теории-разностных-схем-аппроксимация.md",
-    "Aspirantura/Obsidian-Aspirantura-Prep/40-Численные-методы-решения-задачи-Коши-для-систем-ОДУ.md",
-    "Aspirantura/Obsidian-Aspirantura-Prep/38-СЛАУ-численные-методы.md",
-    "Aspirantura/Obsidian-Aspirantura-Prep/37-Принципы-построения-моделей.md",
-    "Aspirantura/Obsidian-Aspirantura-Prep/36-Понятие-модель-свойства-виды.md",
-    "Aspirantura/Obsidian-Aspirantura-Prep/35-Математическое-моделирование-принципы.md",
     "Drivee/логированиеюьв",
     "Drivee/логирование",
     "Drivee",
