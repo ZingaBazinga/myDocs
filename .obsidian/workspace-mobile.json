@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aspirantura/Английский/Pronunciation.md",
+                "file": "Aspirantura/Obsidian-Aspirantura-Prep/19-Линейное-пространство-Линейная-зависимость-Базис-Свойства-матриц.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pronunciation"
+              "title": "19-Линейное-пространство-Линейная-зависимость-Базис-Свойства-матриц"
             }
           }
         ]
@@ -114,7 +114,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Aspirantura/Obsidian-Aspirantura-Prep/Без названия.md",
+            "file": "Aspirantura/Английский/Pronunciation.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -172,8 +172,16 @@
   },
   "active": "5662c26bd477bd69",
   "lastOpenFiles": [
-    "Aspirantura/Английский/Vocabulary.md",
+    "Aspirantura/Obsidian-Aspirantura-Prep/20-Определитель-матрицы-Обратная-и-псевдообратная-матрицы.md",
+    "Aspirantura/Obsidian-Aspirantura-Prep/21-Системы-линейных-уравнений-и-критерий-совместности.md",
+    "Aspirantura/Obsidian-Aspirantura-Prep/18-Экстремум-функции-многих-переменных.md",
+    "Aspirantura/Obsidian-Aspirantura-Prep/19-Линейное-пространство-Линейная-зависимость-Базис-Свойства-матриц.md",
+    "Aspirantura/Obsidian-Aspirantura-Prep/13-Числовые-ряды-теорема-Римана.md",
+    "Числовые ряды.md",
+    "Aspirantura/Obsidian-Aspirantura-Prep/12-Признаки-сходимости-рядов.md",
     "Aspirantura/Английский/Pronunciation.md",
+    "Aspirantura/Английский/Vocabulary.md",
+    "Aspirantura/Obsidian-Aspirantura-Prep/04-Формула-Тейлора.md",
     "Aspirantura/Obsidian-Aspirantura-Prep/03-Теоремы-Ролля-Лагранжа-Коши.md",
     "Aspirantura/Obsidian-Aspirantura-Prep/02-Непрерывные-функции.md",
     "Aspirantura/Obsidian-Aspirantura-Prep/00-MOC-Aspirantura-Prep.md",
@@ -191,14 +199,6 @@
     "Aspirantura/Obsidian-Aspirantura-Prep/44-Разностные-тождества-и-неравенства.md",
     "Aspirantura/Obsidian-Aspirantura-Prep/43-Основные-понятия-теории-разностных-схем-сходимость.md",
     "Aspirantura/Obsidian-Aspirantura-Prep/42-Основные-понятия-теории-разностных-схем-устойчивость.md",
-    "Aspirantura/Obsidian-Aspirantura-Prep/41-Основные-понятия-теории-разностных-схем-аппроксимация.md",
-    "Aspirantura/Obsidian-Aspirantura-Prep/40-Численные-методы-решения-задачи-Коши-для-систем-ОДУ.md",
-    "Aspirantura/Obsidian-Aspirantura-Prep/39-Численные-методы-решения-нелинейных-уравнений.md",
-    "Aspirantura/Obsidian-Aspirantura-Prep/38-СЛАУ-численные-методы.md",
-    "Aspirantura/Obsidian-Aspirantura-Prep/37-Методы-исследования-моделей-вычислительный-эксперимент.md",
-    "Aspirantura/Obsidian-Aspirantura-Prep/36-Понятие-модель-свойства-виды.md",
-    "Aspirantura/Obsidian-Aspirantura-Prep/35-Математическое-моделирование-принципы.md",
-    "Aspirantura/Obsidian-Aspirantura-Prep/34-Метод-разделения-переменных.md",
     "Без названия 2.canvas"
   ]
 }

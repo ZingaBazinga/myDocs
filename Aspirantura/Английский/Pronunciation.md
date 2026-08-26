@@ -15,3 +15,6 @@
 - **to treat** — в контексте расчетов рассчитывать, моделировать, рассматривать (а не «лечить» или «обращаться»).
 - **transition metals** — переходные металлы.
 - **first row elements** — элементы первого ряда (периодической системы).
+
+Now also (transition metals)S and first (row elements)S no longer (pose)V any serious difficulty and (can be treated)V almost as efficiently as conventional "simple" elements
+Теперь также транзитные металлы и первый ряд элементов больше не представляют никаких серьезных проблем и большинство могут быть рассчитаны также эффективно как и обычные простые элементы
