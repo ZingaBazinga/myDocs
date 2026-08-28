@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "20d25142e523fad5",
+        "id": "782b76ea2d9e8d1b",
         "type": "tabs",
         "children": [
           {
-            "id": "c6c6a5a17f940ed6",
+            "id": "adf61803c2d897a2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "Aspirantura/Вопросы.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Вопросы"
             }
           }
         ]
@@ -153,6 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Aspirantura/Вопросы.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -180,35 +185,35 @@
       "graph:Граф": false
     }
   },
-  "active": "c6c6a5a17f940ed6",
+  "active": "adf61803c2d897a2",
   "lastOpenFiles": [
+    "obsidian-skills-main/Без названия.md",
+    "Aspirantura/Вопросы.md",
+    "Aspirantura/Obsidian-Aspirantura-Prep/43-Основные-понятия-теории-разностных-схем-сходимость.md",
+    "Aspirantura/Obsidian-Aspirantura-Prep/35-Математическое-моделирование-принципы.md",
+    "Aspirantura/Obsidian-Aspirantura-Prep/32-Классификация-уравнений-математической-физики.md",
+    "Aspirantura/Obsidian-Aspirantura-Prep/24-Векторы-скалярное-произведение-нормы-Ортогональность.md",
+    "Aspirantura/Obsidian-Aspirantura-Prep/Flashcards-All-Questions.md",
+    "Aspirantura/Obsidian-Aspirantura-Prep/23-Диагонализация-матрицы-Матричные-разложения.md",
+    "Числовые ряды.md",
+    "Aspirantura/Obsidian-Aspirantura-Prep/19-Линейное-пространство-Линейная-зависимость-Базис-Свойства-матриц.md",
+    "Aspirantura/Obsidian-Aspirantura-Prep/18-Экстремум-функции-многих-переменных.md",
+    "Aspirantura/Obsidian-Aspirantura-Prep/17-Необходимые-и-достаточные-условия-экстремума-функции-одной-переменной.md",
+    "Aspirantura/Obsidian-Aspirantura-Prep/16-Элементы-теории-поля.md",
+    "Aspirantura/Obsidian-Aspirantura-Prep/15-Поверхностные-и-криволинейные-интегралы-Их-взаимосвязь.md",
+    "Aspirantura/Obsidian-Aspirantura-Prep/14-Функциональные-последовательности-и-ряды-Ряды-Фурье.md",
+    "Aspirantura/Obsidian-Aspirantura-Prep/13-Числовые-ряды-теорема-Римана.md",
     "Aspirantura/Obsidian-Aspirantura-Prep/11-Числовые-ряды-критерий-Коши.md",
+    "Aspirantura/Obsidian-Aspirantura-Prep/12-Признаки-сходимости-рядов.md",
+    "obsidian-skills-main/Без названия 1.md",
+    "Вопросы^q12.md",
+    "Вопросы программы вступительного экзамена в аспирантуру по специальности 1.2.2. Математическое моделирование, численные методы и комплексы программ.md",
     "Aspirantura/Obsidian-Aspirantura-Prep/10-Дифференцирование-сложных-функций.md",
     "Aspirantura/Obsidian-Aspirantura-Prep/09-Производная-по-направлению.md",
     "Aspirantura/Obsidian-Aspirantura-Prep/08-Дифференциал-и-частные-производные.md",
     "Aspirantura/Obsidian-Aspirantura-Prep/02-Непрерывные-функции.md",
     "Aspirantura/Obsidian-Aspirantura-Prep/01-Предел-последовательности-и-функции.md",
-    "Aspirantura/Obsidian-Aspirantura-Prep/07-Функции-многих-переменных-пределы-непрерывность.md",
-    "Aspirantura/Obsidian-Aspirantura-Prep/06-Приёмы-интегрирования.md",
-    "Aspirantura/Вопросы.md",
-    "Aspirantura/Obsidian-Aspirantura-Prep/00-MOC-Aspirantura-Prep.md",
-    "Aspirantura/Obsidian-Aspirantura-Prep/05-Интеграл-Ньютона-Лейбница.md",
-    "Aspirantura/Obsidian-Aspirantura-Prep/04-Формула-Тейлора.md",
-    "Aspirantura/Obsidian-Aspirantura-Prep/03-Теоремы-Ролля-Лагранжа-Коши.md",
-    "Aspirantura/Английский/Pronunciation.md",
-    "Aspirantura/Английский/Vocabulary.md",
     "Aspirantura/Английский",
-    "Вопросы^q3.md",
-    "Aspirantura/Obsidian-Aspirantura-Prep/32-Классификация-уравнений-математической-физики.md",
-    "Aspirantura/Obsidian-Aspirantura-Prep/27-ОДУ-теорема-существования-и-единственности.md",
-    "Aspirantura/Obsidian-Aspirantura-Prep/26-Поверхности-второго-порядка.md",
-    "Aspirantura/Obsidian-Aspirantura-Prep/37-Методы-исследования-моделей-вычислительный-эксперимент.md",
-    "Aspirantura/Obsidian-Aspirantura-Prep/52-Технологии-разработки-комплексов-прикладных-программ.md",
-    "Aspirantura/Вопросы программы вступительного экзамена в аспирантуру по специальности 1.2.2. Математическое моделирование, численные методы и комплексы программ.md",
-    "Aspirantura/Obsidian-Aspirantura-Prep/51-Прикладное-программное-обеспечение-математического-моделирования.md",
-    "Aspirantura/Obsidian-Aspirantura-Prep/Flashcards-All-Questions.md",
-    "Aspirantura/Obsidian-Aspirantura-Prep/50-Основы-объектно-ориентированного-программирования.md",
-    "Aspirantura/Учебно-методическое обеспечение и информационное обеспечение программы вступительного экзамена в аспирантуру по специальности.md",
     "Aspirantura/Obsidian-Aspirantura-Prep/Без названия",
     "Drivee/логированиеюьв",
     "Drivee/логирование",
