@@ -11,10 +11,14 @@
             "id": "07e2292323626834",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Aspirantura/Obsidian-Aspirantura-Prep/31-Уравнения-математической-физики-общие-понятия.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "31-Уравнения-математической-физики-общие-понятия"
             }
           }
         ]
@@ -183,6 +187,8 @@
   },
   "active": "07e2292323626834",
   "lastOpenFiles": [
+    "Aspirantura/Obsidian-Aspirantura-Prep/36-Понятие-модель-свойства-виды.md",
+    "Aspirantura/Obsidian-Aspirantura-Prep/42-Основные-понятия-теории-разностных-схем-устойчивость.md",
     "Drivee/Без названия.canvas",
     "Drivee/Без названия.md",
     "Drivee/ofd-receipt-generate.canvas",
@@ -190,7 +196,6 @@
     "Aspirantura/Obsidian-Aspirantura-Prep/00-MOC-Aspirantura-Prep.md",
     "Aspirantura/Obsidian-Aspirantura-Prep/37-Методы-исследования-моделей-вычислительный-эксперимент.md",
     "Aspirantura/Obsidian-Aspirantura-Prep/29-ОДУ-однородные-уравнения-классификация-стационарных-точек.md",
-    "Aspirantura/Obsidian-Aspirantura-Prep/36-Понятие-модель-свойства-виды.md",
     "Drivee/логирование.md",
     "Aspirantura/Obsidian-Aspirantura-Prep/33-Задачи-Коши-Дирихле-Неймана.md",
     "Aspirantura/Obsidian-Aspirantura-Prep/32-Классификация-уравнений-математической-физики.md",
